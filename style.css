@@ -215,8 +215,8 @@ body{
 }
 
 .home-img{
-    width: 410px;
-    height: 410px;
+    width: 400px;
+    height: 400px;
     opacity: 0;
     animation: zoomIn 1s ease forwards, floatImage 4s ease-in-out infinite;
     animation-delay: 2.1s, 3.1s;
